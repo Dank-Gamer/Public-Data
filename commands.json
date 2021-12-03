@@ -1,14 +1,18 @@
 {
-	"Fun": [
-	{
-	  "8ball": "Ask a question and let the 8ball answer",
-	  "long_desc": "Ask a question in the command like 'plz 8ball Am I gay?' and the bot will respond ( the answer is correct, not randomized 😳 )",
-	  "aliases": []
-	},
-	{
-	  "activity": "How to use the activity command",
-	  "long_desc": "Gives the guide to use the bot's activity command",
-	  "aliases": []
-	}
-	]
+  "Fun": [
+    {
+      "8ball": "Ask a question and let the 8ball answer",
+      "long_desc": "Ask a question in the command like 'plz 8ball Am I gay?' and the bot will respond ( the answer is correct, not randomized 😳 )",
+      "aliases": []
+    },
+    {
+      "activity": "How to use the activity command",
+      "long_desc": "Gives the guide to use the bot's activity command",
+      "aliases": []
+    },
+    {
+      "gif": "Search a gif",
+      "long_desc": "Search a gif from <a href=\"giphy.com\">giphy.com</a>!"
+    }
+  ]
 }
