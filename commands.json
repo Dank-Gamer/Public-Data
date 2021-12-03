@@ -12,7 +12,8 @@
     },
     {
       "gif": "Search a gif",
-      "long_desc": "Search a gif from <a href=\"giphy.com\">giphy.com</a>!"
+      "long_desc": "Search a gif from <a href=\"giphy.com\">giphy.com</a>!",
+	  "aliases": []
     }
   ]
 }
